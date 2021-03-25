@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Vimercate",
+            "coo": {
+                "lat": "46",
+                "long": "9"
+            },
+            "type": "city"
+        },
+        {
+            "name": "Monza",
+            "coo": {
+                "lat": "47",
+                "long": "9"
+            },
+            "type": "city"
+        },
+        {
+            "name": "Via Pacinotti",
+            "coo": {
+                "lat": "46",
+                "long": "9"
+            },
+            "type": "Street"
+        },
+        {
+            "name": "Vigano",
+            "coo": {
+                "lat": "46",
+                "long": "9"
+            },
+            "type": "city"
+        }
+    ]
+}
